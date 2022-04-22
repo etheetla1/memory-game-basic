@@ -41,8 +41,9 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](http://g.recordit.co/WQTAooCNbf.gif)
-![]()
 ![](http://g.recordit.co/e0CmN44iPv.gif)
+![](https://user-images.githubusercontent.com/103202623/164828139-65bad722-dc85-4ba2-a6b7-70b0501e68ae.gif)
+
 
 ## Reflection Questions
 
@@ -67,7 +68,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [ELISHA THEETLA]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
